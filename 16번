@@ -16,6 +16,7 @@ public class ex1 {
 		b = ~a;
 		
 		System.out.println("반전된 수 : %d", b);
+		System.out.println(toBinaryString(b) +"(십진수"+b+")");
 	    
 		}
 		
